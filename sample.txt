@@ -1,1 +1,1 @@
-Adding a new line for testing
+This is for testing of conflict
